@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 📫 How to reach me **srijan102dahal@gmail.com**
+- 📫 How to reach me **srijan2004dahal@gmail.com**
 
 - ⚡ Fun fact **I'm funny(sometimes)**
 
